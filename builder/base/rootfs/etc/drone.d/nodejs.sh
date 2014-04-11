@@ -1,2 +1,2 @@
 . /home/ubuntu/nvm/nvm.sh
-nvm use v0.10.22 > /dev/null
+nvm use 0.10 > /dev/null
